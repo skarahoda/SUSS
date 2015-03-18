@@ -2,9 +2,9 @@
 
 ##Navigasyon
 
-1. Navigasyon Nedir
-2. Doğal Navigasyon    
-3. Pusulalı Navigasyon
+1. Navigasyon Nedir(Navigasyon Nedir?)
+2. Doğal Navigasyon(Doğal Navigasyon)  
+3. Pusulalı Navigasyon(Pusulalı Navigasyon)
 
 ###Navigasyon Nedir?
 
