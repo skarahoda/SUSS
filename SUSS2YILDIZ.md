@@ -2,7 +2,7 @@
 
 ##Navigasyon
 
-1. [Navigasyon Nedir?](###Navigasyon Nedir?)
+1. [Navigasyon Nedir?](#navigasyon-nedir)
 2. [Doğal Navigasyon](###Doğal Navigasyon)  
 3. [Pusulalı Navigasyon](###Pusulalı Navigasyon)
 
