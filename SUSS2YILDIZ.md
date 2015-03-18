@@ -4,7 +4,7 @@
 
 1. [Navigasyon Nedir?](#navigasyon-nedir)
 2. [Doğal Navigasyon](#do%C4%9Fal-navigasyon)  
-3. [Pusulalı Navigasyon](###Pusulalı Navigasyon)
+3. [Pusulalı Navigasyon](#pusulal%C4%B1-navigasyon)
 
 ###Navigasyon Nedir?
 
