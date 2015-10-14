@@ -8,7 +8,7 @@
 4. [Su Altında Isı](#su-altında-ısı)
 5. [Su Altında Işık](#su-altında-ışık)
 6. [Su Altında Ses](#su-altında-ses)
-7. [Su Altında Hava Tüketimi](#su-altında-hava-tuketimi)
+7. [Su Altında Hava Tüketimi](#su-altında-hava-tüketimi)
 8. [Suyun Kaldırma Kuvveti](#suyun-kaldırma-kuvveti)
 
 ###Dalton Kanunu
