@@ -1,5 +1,7 @@
 #SUSS 1 Yıldız Eğitim Notları - 2015 Fall
 
+1. [Dalış Fiziği](#dalış-fiziği)
+
 ##Dalış Fiziği
 
 1. [Dalton Kanunu](#dalton-kanunu)
