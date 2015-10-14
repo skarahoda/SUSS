@@ -5,11 +5,11 @@
 1. [Dalton Kanunu](#dalton-kanunu)
 2. [Boyle-Mariotte Kanunu](#boyle-mariotte-kanunu)
 3. [Henry Kanunu](#henry-kanunu)
-4. [Su Altında Isı](#su-altinda-isi)
-5. [Su Altında Işık](#su-altinda-isik)
-6. [Su Altında Ses](#su-altinda-ses)
-7. [Su Altında Hava Tüketimi](#su-altinda-hava-tuketimi)
-8. [Suyun Kaldırma Kuvveti](#suyun-kaldirma-kuvveti)
+4. [Su Altında Isı](#su-altında-ısı)
+5. [Su Altında Işık](#su-altında-ışık)
+6. [Su Altında Ses](#su-altında-ses)
+7. [Su Altında Hava Tüketimi](#su-altında-hava-tuketimi)
+8. [Suyun Kaldırma Kuvveti](#suyun-kaldırma-kuvveti)
 
 ###Dalton Kanunu
 
