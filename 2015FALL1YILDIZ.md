@@ -70,4 +70,56 @@ Neopren elbise ile yüzerliliğimiz artar.
 Kurşun ağırlıkla bu durumu dengeleriz.
 Su altında da yüzerliliğimizi denge yeleği ile ayarlarız.
 
+##ADT
 
+###Kuşanma ve Suya giriş
+
+- Tekneden
+  - Zodyak
+  - Platform
+- Kıyıdan
+
+Tüpün paltforma çarpmaması önemli.
+BC şişik olmalı!!!
+Ağırlık kontrolü: Derin nefes al, bc boşalt. Su seviyesi göz hizasına geliyorsa yeteri miktarda ağırlık alınmış. Su seviyesi göz hizasının altındaysa ağırlık arttırmak üstündeyse ağırlık azaltmak gerek. 
+
+- Kalın kıyafet için fazla ağırlık almak gerekiyor. 
+
+###Buddy Sistemi
+
+Buddy'ni su altında göz ucuyla görmen gerek
+
+Kayıp buddy prosedürü: Su altında buddy kaybolursa, hava kabarcığı ara, döne döne kontrollü yüksel ve satıhta buddy'ni bul. Satıhta bulamazsan acil durum.
+
+Buddy check: Baştan palete kadar kontrol et. Sorun varsa buddy'ne söyle olmadı lidere, eğitmene söyle.
+
+###Brifing
+
+- Grup belirlenmesi (Ne zaman kimlerle dalınacak)
+
+###İniş
+
+- Dik dur, palet vurma.
+- Tüy hafifliğinde in, inerken kulak eşitlemede sıkıntı olmaz böylece.
+- Deflatör ile bcyi nefes vererek de ciğerlerini boşalt. Tamamen suya girince deflatörden hava kaçırmayı bırak nefes alış verişe başla.
+- Aşağıya inerken maske basıncını dengelemek için *arada* burundan nefes ver.
+
+###Su Altı Becerileri
+
+- Olabildiğince nötr ol ve satıha paralel kal.
+
+
+###Güvenlik Becerileri
+
+- Buddy ile hava paylaşımı
+  - Ahtapot kullanarak
+  - Tek kaynaktan
+- Bağımsız acil çıkış
+  - Kontrollü acil çıkış: yavaş yavaş nefes vererek yukarı doğru çık. Yavaşlamak için olabildiğince BC'den hava ver. Suya çıkınca bc'ni nefesinle şişir.
+  - Yüzerlikli acil çıkış: yüzerlilik negatifse, ağırlığını da at çık.
+
+###Su altında İletişim
+
+- Korna, shaker
+- Lidere ulaşamıyorsan asistanla iletişime geç o shaker kullanarak liderle iletişime geçecek.
+- 
