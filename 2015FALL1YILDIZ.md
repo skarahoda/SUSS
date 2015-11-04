@@ -122,4 +122,4 @@ Buddy check: Baştan palete kadar kontrol et. Sorun varsa buddy'ne söyle olmad�
 
 - Korna, shaker
 - Lidere ulaşamıyorsan asistanla iletişime geç o shaker kullanarak liderle iletişime geçecek.
-- 
+
