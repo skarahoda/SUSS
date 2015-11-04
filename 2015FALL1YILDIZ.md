@@ -17,11 +17,11 @@
 
 Gaz karışımının toplam basıncı, içinde bulunan gazların kısmi basınçları toplamına eşittir.
 
-* örnek: deniz seviyesinde havadaki oksijenin kısmi basıncı 0.21 atmdir.
+- örnek: deniz seviyesinde havadaki oksijenin kısmi basıncı 0.21 atmdir.
 
 ###Boyle-Mariotte Kanunu
 
-P1 * V1 = P2 * V2
+`P1 * V1 = P2 * V2`
 
 - Barotramvaların nedeni
 - ***Asla Nefes Tutma!!!***
